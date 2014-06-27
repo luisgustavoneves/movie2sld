@@ -1,7 +1,7 @@
 movie2sld
 =========
 
-Um program python simples que cria uma página html a partir de um filme, com snapshots tirados do vídeo especificado seguidos pelo texto extraído do seu **requerido** arquivo `.srt` . Ideal para criar material de revisão a partir vídeo aultas como as da  Khan Academy ou Coursera. 
+Um program python simples que cria uma página html a partir de um filme, com snapshots tirados do vídeo especificado seguidos pelo texto extraído do seu **requerido** arquivo `.srt` . Ideal para criar material de revisão a partir vídeo aulas como as da  Khan Academy ou Coursera. 
 O arquivo html gerado é simples e pode ser facilmente editado para remover snapshots desnecessários.
 
 Uso
