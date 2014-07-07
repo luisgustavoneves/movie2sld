@@ -8,7 +8,7 @@ import shutil
 if sys.platform == 'win32':
     ffmpeg = '"C:\\Program Files\\ffmpeg-2.2.3-win64-static\\bin\\ffmpeg.exe"'
 else:
-    ffmeg = '/usr/bin/avconv'
+    ffmpeg = '/usr/bin/avconv'
 
 movie = sys.argv[1]
 ext = movie.split('.')[-1]
